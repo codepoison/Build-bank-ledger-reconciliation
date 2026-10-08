@@ -1,0 +1,10 @@
+ledger_transaction_id,ledger_date,amount,narration,reference,account_category
+L000001,2025-03-20,2784.84,Summit Cloud Hosting,SYN-000001,Freight
+L000002,2025-11-15,1693.07,PINE-STREET-CAFE,LED-SYN-000002,Software
+L000003,2025-04-16,-708.54,Westlake Transporx,LED-SYN-000003,Travel
+L000004,2025-01-12,2161.14, Northstar Office Supplies ,LED-SYN-000004,Professional Fees
+L000005,2025-02-11,816.74,oAK & sTONE cONSULTING,LED-SYN-000005,Travel
+L000006,2025-01-11,2858.4,"Greenfield. Utilities,",LED-SYN-000006,Utilities
+L000007,2025-06-29,1250.13,Summit Cloud Hosting,SYN-000007,Rent
+L000008,2025-04-17,-2368.94,Metro Fuel,SYN-000008,Rent
+

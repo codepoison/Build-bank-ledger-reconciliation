@@ -1,0 +1,10 @@
+bank_transaction_id,transaction_date,amount,description,reference,transaction_type
+B000001,2025-03-20,2784.84,Summit Cloud Hosting,SYN-000001,credit
+B000002,2025-11-15,1693.07,Pine Street Cafe,SYN-000002,credit
+B000003,2025-04-16,-708.54,Westlake Transport,SYN-000003,debit
+B000004,2025-01-12,2161.14,  Northstar   Office   Supplies  ,SYN-000004,credit
+B000005,2025-02-11,816.74,Oak & Stone Consulting,SYN-000005,credit
+B000006,2025-01-11,2858.4,Greenfield Utilities,SYN-000006,credit
+B000007,2025-06-27,1250.13,Summit Cloud Hosting,SYN-000007,credit
+B000008,2025-04-17,-2361.59,Metro Fuel,SYN-000008,debit
+

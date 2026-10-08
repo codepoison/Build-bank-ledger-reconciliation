@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# Generated synthetic inputs and outputs can be regenerated locally.
+data/generated/*.csv
+reports/*
+

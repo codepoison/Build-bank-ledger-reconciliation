@@ -1,0 +1,302 @@
+bank_transaction_id,transaction_date,amount,description,reference,transaction_type
+B000001,2025-08-24,3519.95,Westlake Transport,SYN-000001,credit
+B000002,2025-06-22,2796.28,Greenfield Utilities,SYN-000002,credit
+B000003,2025-04-19,-1945.7,Harbor Freight Services,SYN-000003,debit
+B000004,2025-06-01,1103.51,Westlake Transport,SYN-000004,credit
+B000005,2025-11-29,-1646.78,Brightline Telecom,SYN-000005,debit
+B000006,2025-08-14,1966.37,Northstar Office Supplies,SYN-000006,credit
+B000007,2025-07-12,-2415.8,Riverbend Property Group,SYN-000007,debit
+B000008,2025-03-18,3603.42,Westlake Transport,SYN-000008,credit
+B000009,2025-03-14,-2056.41,Summit Cloud Hosting,SYN-000009,debit
+B000010,2025-12-14,3779.7,Bluebird Software,SYN-000010,credit
+B000011,2025-08-14,1821.6,Westlake Transport,SYN-000011,credit
+B000012,2025-05-29,3309.2,Westlake Transport,SYN-000012,credit
+B000013,2025-04-18,2591.54,Greenfield Utilities,SYN-000013,credit
+B000014,2025-12-07,-3590.22,Brightline Telecom,SYN-000014,debit
+B000015,2025-11-13,-4026.21,Northstar Office Supplies,SYN-000015,debit
+B000016,2025-05-10,-359.57,Oak & Stone Consulting,SYN-000016,debit
+B000017,2025-07-27,2281.39,Metro Fuel,SYN-000017,credit
+B000018,2025-02-28,2232.26,Riverbend Property Group,SYN-000018,credit
+B000019,2025-10-09,2196.0,Pine Street Cafe,SYN-000019,credit
+B000020,2025-12-16,3406.7,Westlake Transport,SYN-000020,credit
+B000021,2025-11-02,327.22,Summit Cloud Hosting,SYN-000021,credit
+B000022,2025-09-12,-1267.7,Bluebird Software,SYN-000022,debit
+B000023,2025-07-31,976.76,Summit Cloud Hosting,SYN-000023,credit
+B000024,2025-12-06,953.05,Brightline Telecom,SYN-000024,credit
+B000025,2025-11-19,204.82,Greenfield Utilities,SYN-000025,credit
+B000026,2025-09-08,-3416.98,Cedar Medical Services,SYN-000026,debit
+B000027,2025-02-11,2923.98,Westlake Transport,SYN-000027,credit
+B000028,2025-07-29,3290.62,Westlake Transport,SYN-000028,credit
+B000029,2025-11-15,3395.4,Cedar Medical Services,SYN-000029,credit
+B000030,2025-05-02,-2214.97,Brightline Telecom,SYN-000030,debit
+B000031,2025-03-08,-3592.95,Greenfield Utilities,SYN-000031,debit
+B000032,2025-07-20,2914.53,Pine Street Cafe,SYN-000032,credit
+B000033,2025-10-26,2056.51,Cedar Medical Services,SYN-000033,credit
+B000034,2025-11-05,995.64,Cedar Medical Services,SYN-000034,credit
+B000035,2025-12-15,-3856.72,Cedar Medical Services,SYN-000035,debit
+B000036,2025-03-15,-1844.3,Brightline Telecom,SYN-000036,debit
+B000037,2025-06-19,-2171.44,Harbor Freight Services,SYN-000037,debit
+B000038,2025-08-09,970.08,Bluebird Software,SYN-000038,credit
+B000039,2025-01-26,-1133.98,Brightline Telecom,SYN-000039,debit
+B000040,2025-05-01,742.76,Westlake Transport,SYN-000040,credit
+B000041,2025-09-03,-1538.44,Metro Fuel,SYN-000041,debit
+B000042,2025-09-10,3290.56,Westlake Transport,SYN-000042,credit
+B000043,2025-06-11,2947.39,Metro Fuel,SYN-000043,credit
+B000044,2025-12-24,2152.66,Bluebird Software,SYN-000044,credit
+B000045,2025-01-23,1100.52,Riverbend Property Group,SYN-000045,credit
+B000046,2025-12-16,35.69,Northstar Office Supplies,SYN-000046,credit
+B000047,2025-01-11,4004.3,Westlake Transport,SYN-000047,credit
+B000048,2025-02-03,498.06,Harbor Freight Services,SYN-000048,credit
+B000049,2025-11-08,3422.99,Cedar Medical Services,SYN-000049,credit
+B000050,2025-05-21,2128.82,Summit Cloud Hosting,SYN-000050,credit
+B000051,2025-07-26,886.52,Brightline Telecom,SYN-000051,credit
+B000052,2025-03-01,3637.23,Harbor Freight Services,SYN-000052,credit
+B000053,2025-12-28,-967.75,Oak & Stone Consulting,SYN-000053,debit
+B000054,2025-05-03,132.29,Greenfield Utilities,SYN-000054,credit
+B000055,2025-05-23,1973.83,Pine Street Cafe,SYN-000055,credit
+B000056,2025-12-27,2044.02,Oak & Stone Consulting,SYN-000056,credit
+B000057,2025-01-21,-1778.58,Metro Fuel,SYN-000057,debit
+B000058,2025-09-29,2466.54,Pine Street Cafe,SYN-000058,credit
+B000059,2025-11-14,-156.51,Pine Street Cafe,SYN-000059,debit
+B000060,2025-05-24,2515.36,Cedar Medical Services,SYN-000060,credit
+B000061,2025-02-04,-2557.36,Northstar Office Supplies,SYN-000061,debit
+B000062,2025-11-02,-1429.66,Summit Cloud Hosting,SYN-000062,debit
+B000063,2025-04-15,3273.74,Bluebird Software,SYN-000063,credit
+B000064,2025-02-19,-1707.81,Greenfield Utilities,SYN-000064,debit
+B000065,2025-09-16,3417.71,Summit Cloud Hosting,SYN-000065,credit
+B000066,2025-08-19,-2600.83,Brightline Telecom,SYN-000066,debit
+B000067,2025-02-01,2463.43,Westlake Transport,SYN-000067,credit
+B000068,2025-06-10,-2634.41,Pine Street Cafe,SYN-000068,debit
+B000069,2025-07-09,-1660.42,Greenfield Utilities,SYN-000069,debit
+B000070,2025-01-03,-1960.35,Bluebird Software,SYN-000070,debit
+B000071,2025-10-04,935.17,Oak & Stone Consulting,SYN-000071,credit
+B000072,2025-11-22,-1836.44,Cedar Medical Services,SYN-000072,debit
+B000073,2025-09-01,3169.54,Brightline Telecom,SYN-000073,credit
+B000074,2025-06-08,560.65,Northstar Office Supplies,SYN-000074,credit
+B000075,2025-08-08,3708.27,Harbor Freight Services,SYN-000075,credit
+B000076,2025-05-20,1405.87,  Summit   Cloud   Hosting  ,SYN-000076,credit
+B000077,2025-07-31,-3104.71,  Northstar   Office   Supplies  ,SYN-000077,debit
+B000078,2025-07-15,-4064.79,  Brightline   Telecom  ,SYN-000078,debit
+B000079,2025-03-11,2431.66,  Summit   Cloud   Hosting  ,SYN-000079,credit
+B000080,2025-04-19,3397.73,  Northstar   Office   Supplies  ,SYN-000080,credit
+B000081,2025-03-09,-2075.31,  Greenfield   Utilities  ,SYN-000081,debit
+B000082,2025-07-27,-316.75,  Bluebird   Software  ,SYN-000082,debit
+B000083,2025-08-26,-209.04,  Riverbend   Property   Group  ,SYN-000083,debit
+B000084,2025-11-18,553.17,  Greenfield   Utilities  ,SYN-000084,credit
+B000085,2025-02-13,-972.22,  Summit   Cloud   Hosting  ,SYN-000085,debit
+B000086,2025-04-28,1798.16,  Metro   Fuel  ,SYN-000086,credit
+B000087,2025-08-31,1495.14,  Summit   Cloud   Hosting  ,SYN-000087,credit
+B000088,2025-07-24,-4147.25,  Oak   &   Stone   Consulting  ,SYN-000088,debit
+B000089,2025-10-15,-411.48,  Bluebird   Software  ,SYN-000089,debit
+B000090,2025-08-24,159.76,  Riverbend   Property   Group  ,SYN-000090,credit
+B000091,2025-05-27,283.58,  Westlake   Transport  ,SYN-000091,credit
+B000092,2025-01-27,3897.94,  Oak   &   Stone   Consulting  ,SYN-000092,credit
+B000093,2025-03-26,2238.21,  Brightline   Telecom  ,SYN-000093,credit
+B000094,2025-11-30,624.39,  Riverbend   Property   Group  ,SYN-000094,credit
+B000095,2025-06-25,2552.64,  Metro   Fuel  ,SYN-000095,credit
+B000096,2025-10-04,1537.67,  Northstar   Office   Supplies  ,SYN-000096,credit
+B000097,2025-01-08,-519.94,  Greenfield   Utilities  ,SYN-000097,debit
+B000098,2025-01-05,-1697.25,  Brightline   Telecom  ,SYN-000098,debit
+B000099,2025-07-01,-3310.18,  Westlake   Transport  ,SYN-000099,debit
+B000100,2025-02-08,839.33,  Greenfield   Utilities  ,SYN-000100,credit
+B000101,2025-11-23,-1344.36,Metro Fuel,SYN-000101,debit
+B000102,2025-01-28,744.02,Riverbend Property Group,SYN-000102,credit
+B000103,2025-09-21,1317.91,Bluebird Software,SYN-000103,credit
+B000104,2025-04-23,-729.35,Riverbend Property Group,SYN-000104,debit
+B000105,2025-02-14,-2419.37,Westlake Transport,SYN-000105,debit
+B000106,2025-04-29,-2230.03,Brightline Telecom,SYN-000106,debit
+B000107,2025-07-01,-2610.95,Harbor Freight Services,SYN-000107,debit
+B000108,2025-10-14,2141.57,Cedar Medical Services,SYN-000108,credit
+B000109,2025-11-14,-1410.24,Riverbend Property Group,SYN-000109,debit
+B000110,2025-03-01,-1018.0,Riverbend Property Group,SYN-000110,debit
+B000111,2025-08-22,-907.52,Pine Street Cafe,SYN-000111,debit
+B000112,2025-10-14,3476.36,Cedar Medical Services,SYN-000112,credit
+B000113,2025-08-03,-2194.81,Summit Cloud Hosting,SYN-000113,debit
+B000114,2025-07-20,1219.78,Cedar Medical Services,SYN-000114,credit
+B000115,2025-01-06,-1836.11,Westlake Transport,SYN-000115,debit
+B000116,2025-07-23,-730.39,Brightline Telecom,SYN-000116,debit
+B000117,2025-01-04,199.7,Metro Fuel,SYN-000117,credit
+B000118,2025-03-23,1802.14,Greenfield Utilities,SYN-000118,credit
+B000119,2025-01-29,3527.1,Westlake Transport,SYN-000119,credit
+B000120,2025-12-11,-2303.13,Greenfield Utilities,SYN-000120,debit
+B000121,2025-10-20,2166.43,Oak & Stone Consulting,SYN-000121,credit
+B000122,2025-09-29,-2061.49,Bluebird Software,SYN-000122,debit
+B000123,2025-09-04,-2503.81,Bluebird Software,SYN-000123,debit
+B000124,2025-07-02,655.65,Greenfield Utilities,SYN-000124,credit
+B000125,2025-03-08,220.29,Westlake Transport,SYN-000125,credit
+B000126,2025-07-06,-850.46,Harbor Freight Services,SYN-000126,debit
+B000127,2025-03-02,3202.55,Summit Cloud Hosting,SYN-000127,credit
+B000128,2025-09-23,2843.77,Oak & Stone Consulting,SYN-000128,credit
+B000129,2025-01-17,-562.09,Pine Street Cafe,SYN-000129,debit
+B000130,2025-07-04,-14.25,Northstar Office Supplies,SYN-000130,debit
+B000131,2025-01-06,269.99,Summit Cloud Hosting,SYN-000131,credit
+B000132,2025-07-14,-842.64,Westlake Transport,SYN-000132,debit
+B000133,2025-10-20,-30.41,Northstar Office Supplies,SYN-000133,debit
+B000134,2025-12-25,-2903.1,Pine Street Cafe,SYN-000134,debit
+B000135,2025-06-25,-3780.59,Riverbend Property Group,SYN-000135,debit
+B000136,2025-01-21,-1649.75,Brightline Telecom,SYN-000136,debit
+B000137,2025-05-19,4085.5,Pine Street Cafe,SYN-000137,credit
+B000138,2025-01-29,2240.97,Brightline Telecom,SYN-000138,credit
+B000139,2025-09-02,458.16,Bluebird Software,SYN-000139,credit
+B000140,2025-07-22,2183.14,Northstar Office Supplies,SYN-000140,credit
+B000141,2025-09-30,-1545.57,Bluebird Software,SYN-000141,debit
+B000142,2025-10-29,-629.91,Northstar Office Supplies,SYN-000142,debit
+B000143,2025-08-07,2816.38,Greenfield Utilities,SYN-000143,credit
+B000144,2025-10-25,-4069.68,Bluebird Software,SYN-000144,debit
+B000145,2025-10-13,1035.36,Westlake Transport,SYN-000145,credit
+B000146,2025-04-10,637.65,Greenfield Utilities,SYN-000146,credit
+B000147,2025-11-03,-2965.09,Northstar Office Supplies,SYN-000147,debit
+B000148,2025-08-05,-3142.23,Pine Street Cafe,SYN-000148,debit
+B000149,2025-10-27,126.05,Riverbend Property Group,SYN-000149,credit
+B000150,2025-12-02,-1442.37,Brightline Telecom,SYN-000150,debit
+B000151,2025-12-14,-1372.61,Summit Cloud Hosting,SYN-000151,debit
+B000152,2025-09-30,891.98,Cedar Medical Services,SYN-000152,credit
+B000153,2025-04-13,2495.69,Harbor Freight Services,SYN-000153,credit
+B000154,2025-08-12,-2746.17,Northstar Office Supplies,SYN-000154,debit
+B000155,2025-02-24,1437.91,Northstar Office Supplies,SYN-000155,credit
+B000156,2025-09-18,-3861.01,Pine Street Cafe,SYN-000156,debit
+B000157,2025-05-14,-3350.96,Northstar Office Supplies,SYN-000157,debit
+B000158,2025-11-03,3113.05,Brightline Telecom,SYN-000158,credit
+B000159,2025-09-02,1236.83,Brightline Telecom,SYN-000159,credit
+B000160,2025-02-13,3262.69,Harbor Freight Services,SYN-000160,credit
+B000161,2025-02-09,3018.14,Metro Fuel,SYN-000161,credit
+B000162,2025-11-15,2979.23,Bluebird Software,SYN-000162,credit
+B000163,2025-03-21,2885.99,Westlake Transport,SYN-000163,credit
+B000164,2025-11-27,2133.23,Oak & Stone Consulting,SYN-000164,credit
+B000165,2025-08-15,-546.37,Summit Cloud Hosting,SYN-000165,debit
+B000166,2025-11-04,-360.27,Cedar Medical Services,SYN-000166,debit
+B000167,2025-10-30,2007.05,Bluebird Software,SYN-000167,credit
+B000168,2025-05-05,-1520.31,Oak & Stone Consulting,SYN-000168,debit
+B000169,2025-03-18,2169.45,Greenfield Utilities,SYN-000169,credit
+B000170,2025-08-09,3323.81,Riverbend Property Group,SYN-000170,credit
+B000171,2025-10-16,3444.58,Summit Cloud Hosting,SYN-000171,credit
+B000172,2025-02-07,236.24,Summit Cloud Hosting,SYN-000172,credit
+B000173,2025-06-18,1114.3,Pine Street Cafe,SYN-000173,credit
+B000174,2025-06-04,1006.33,Oak & Stone Consulting,SYN-000174,credit
+B000175,2025-09-03,3411.38,Westlake Transport,SYN-000175,credit
+B000176,2025-08-19,-2604.38,Oak & Stone Consulting,SYN-000176,debit
+B000177,2025-01-24,3991.31,Bluebird Software,SYN-000177,credit
+B000178,2025-06-04,2033.6,Riverbend Property Group,SYN-000178,credit
+B000179,2025-03-03,-2669.86,Oak & Stone Consulting,SYN-000179,debit
+B000180,2025-10-05,4197.02,Northstar Office Supplies,SYN-000180,credit
+B000181,2025-04-11,3711.56,Riverbend Property Group,SYN-000181,credit
+B000182,2025-10-01,-2746.28,Riverbend Property Group,SYN-000182,debit
+B000183,2025-02-15,593.57,Northstar Office Supplies,SYN-000183,credit
+B000184,2025-03-30,-859.29,Cedar Medical Services,SYN-000184,debit
+B000185,2025-08-20,3181.19,Pine Street Cafe,SYN-000185,credit
+B000186,2025-07-04,2330.99,Brightline Telecom,SYN-000186,credit
+B000187,2025-03-28,3241.28,Brightline Telecom,SYN-000187,credit
+B000188,2025-02-15,-1909.35,Brightline Telecom,SYN-000188,debit
+B000189,2025-08-04,913.44,Greenfield Utilities,SYN-000189,credit
+B000190,2025-10-04,422.27,Riverbend Property Group,SYN-000190,credit
+B000191,2025-09-06,-90.52,Greenfield Utilities,SYN-000191,debit
+B000192,2025-09-16,3628.86,Harbor Freight Services,SYN-000192,credit
+B000193,2025-11-03,-1965.8,Northstar Office Supplies,SYN-000193,debit
+B000194,2025-04-11,2774.49,Bluebird Software,SYN-000194,credit
+B000195,2025-02-26,737.71,Greenfield Utilities,SYN-000195,credit
+B000196,2025-11-12,3131.9,Bluebird Software,SYN-000196,credit
+B000197,2025-10-28,-3448.92,Pine Street Cafe,SYN-000197,debit
+B000198,2025-01-04,1967.82,Pine Street Cafe,SYN-000198,credit
+B000199,2025-03-28,-1392.78,Oak & Stone Consulting,SYN-000199,debit
+B000200,2025-09-07,669.17,Cedar Medical Services,SYN-000200,credit
+B000201,2025-09-25,2378.31,Summit Cloud Hosting,SYN-000201,credit
+B000202,2025-01-03,3910.47,Oak & Stone Consulting,SYN-000202,credit
+B000203,2025-04-17,-16.09,Northstar Office Supplies,SYN-000203,debit
+B000204,2025-01-29,-4136.69,Greenfield Utilities,SYN-000204,debit
+B000205,2025-05-22,-4084.86,Summit Cloud Hosting,SYN-000205,debit
+B000206,2025-01-15,1126.03,Harbor Freight Services,SYN-000206,credit
+B000207,2025-05-25,-410.74,Oak & Stone Consulting,SYN-000207,debit
+B000208,2025-04-18,648.25,Summit Cloud Hosting,SYN-000208,credit
+B000209,2025-09-30,-1286.51,Pine Street Cafe,SYN-000209,debit
+B000210,2025-09-27,-3024.56,Greenfield Utilities,SYN-000210,debit
+B000211,2025-09-05,669.09,Bluebird Software,SYN-000211,credit
+B000212,2025-01-25,3216.52,Greenfield Utilities,SYN-000212,credit
+B000213,2025-08-15,1786.97,Greenfield Utilities,SYN-000213,credit
+B000214,2025-11-29,-894.44,Summit Cloud Hosting,SYN-000214,debit
+B000215,2025-09-10,2651.22,Greenfield Utilities,SYN-000215,credit
+B000216,2025-12-21,1827.31,Harbor Freight Services,SYN-000216,credit
+B000217,2025-03-02,254.0,Riverbend Property Group,SYN-000217,credit
+B000218,2025-08-23,722.67,Greenfield Utilities,SYN-000218,credit
+B000219,2025-05-20,1220.23,Summit Cloud Hosting,SYN-000219,credit
+B000220,2025-04-19,-1368.1,Riverbend Property Group,SYN-000220,debit
+B000221,2025-02-10,-1246.05,Cedar Medical Services,SYN-000221,debit
+B000222,2025-12-19,-4054.17,Brightline Telecom,SYN-000222,debit
+B000223,2025-05-06,3234.37,Oak & Stone Consulting,SYN-000223,credit
+B000224,2025-11-02,1496.81,Oak & Stone Consulting,SYN-000224,credit
+B000225,2025-12-30,2688.62,Bluebird Software,SYN-000225,credit
+B000251,2025-02-07,-3213.81,Brightline Telecom,SYN-000251,debit
+B000251-DUP,2025-02-07,-3213.81,Brightline Telecom,SYN-000251,debit
+B000252,2025-08-03,404.65,Bluebird Software,SYN-000252,credit
+B000252-DUP,2025-08-03,404.65,Bluebird Software,SYN-000252,credit
+B000253,2025-02-28,2911.0,Brightline Telecom,SYN-000253,credit
+B000253-DUP,2025-02-28,2911.0,Brightline Telecom,SYN-000253,credit
+B000254,2025-08-08,-3066.49,Brightline Telecom,SYN-000254,debit
+B000254-DUP,2025-08-08,-3066.49,Brightline Telecom,SYN-000254,debit
+B000255,2025-06-17,2410.85,Northstar Office Supplies,SYN-000255,credit
+B000255-DUP,2025-06-17,2410.85,Northstar Office Supplies,SYN-000255,credit
+B000256,2025-10-16,1443.61,Northstar Office Supplies,SYN-000256,credit
+B000256-DUP,2025-10-16,1443.61,Northstar Office Supplies,SYN-000256,credit
+B000257,2025-03-20,-3780.79,Cedar Medical Services,SYN-000257,debit
+B000257-DUP,2025-03-20,-3780.79,Cedar Medical Services,SYN-000257,debit
+B000258,2025-04-20,-850.57,Bluebird Software,SYN-000258,debit
+B000258-DUP,2025-04-20,-850.57,Bluebird Software,SYN-000258,debit
+B000259,2025-05-01,1192.05,Riverbend Property Group,SYN-000259,credit
+B000259-DUP,2025-05-01,1192.05,Riverbend Property Group,SYN-000259,credit
+B000260,2025-01-31,1814.46,Metro Fuel,SYN-000260,credit
+B000260-DUP,2025-01-31,1814.46,Metro Fuel,SYN-000260,credit
+B000261,2025-04-12,1349.91,Westlake Transport,SYN-000261,credit
+B000261-DUP,2025-04-12,1349.91,Westlake Transport,SYN-000261,credit
+B000262,2025-11-25,1427.25,Oak & Stone Consulting,SYN-000262,credit
+B000262-DUP,2025-11-25,1427.25,Oak & Stone Consulting,SYN-000262,credit
+B000263,2025-04-24,790.95,Metro Fuel,SYN-000263,credit
+B000263-DUP,2025-04-24,790.95,Metro Fuel,SYN-000263,credit
+B000264,2025-12-31,-1767.76,Harbor Freight Services,SYN-000264,debit
+B000264-DUP,2025-12-31,-1767.76,Harbor Freight Services,SYN-000264,debit
+B000265,2025-11-02,1649.91,Summit Cloud Hosting,SYN-000265,credit
+B000265-DUP,2025-11-02,1649.91,Summit Cloud Hosting,SYN-000265,credit
+B000266,2025-05-27,-1792.9,Riverbend Property Group,SYN-000266,debit
+B000266-DUP,2025-05-27,-1792.9,Riverbend Property Group,SYN-000266,debit
+B000267,2025-03-17,123.49,Summit Cloud Hosting,SYN-000267,credit
+B000267-DUP,2025-03-17,123.49,Summit Cloud Hosting,SYN-000267,credit
+B000268,2025-04-25,-243.08,Metro Fuel,SYN-000268,debit
+B000268-DUP,2025-04-25,-243.08,Metro Fuel,SYN-000268,debit
+B000269,2025-05-20,118.63,Brightline Telecom,SYN-000269,credit
+B000269-DUP,2025-05-20,118.63,Brightline Telecom,SYN-000269,credit
+B000270,2025-06-30,-3251.06,Westlake Transport,SYN-000270,debit
+B000270-DUP,2025-06-30,-3251.06,Westlake Transport,SYN-000270,debit
+B000271,2025-04-09,2464.62,Westlake Transport,SYN-000271,credit
+B000271-DUP,2025-04-09,2464.62,Westlake Transport,SYN-000271,credit
+B000272,2025-12-18,1763.71,Harbor Freight Services,SYN-000272,credit
+B000272-DUP,2025-12-18,1763.71,Harbor Freight Services,SYN-000272,credit
+B000273,2025-10-27,3409.5,Summit Cloud Hosting,SYN-000273,credit
+B000273-DUP,2025-10-27,3409.5,Summit Cloud Hosting,SYN-000273,credit
+B000274,2025-06-18,2769.21,Pine Street Cafe,SYN-000274,credit
+B000274-DUP,2025-06-18,2769.21,Pine Street Cafe,SYN-000274,credit
+B000275,2025-07-21,1641.69,Riverbend Property Group,SYN-000275,credit
+B000275-DUP,2025-07-21,1641.69,Riverbend Property Group,SYN-000275,credit
+B000276,2025-02-01,2528.51,Westlake Transport,SYN-000276,credit
+B000277,2025-09-24,-3378.73,Pine Street Cafe,SYN-000277,debit
+B000278,2025-09-23,-2425.39,Bluebird Software,SYN-000278,debit
+B000279,2025-08-02,3899.72,Greenfield Utilities,SYN-000279,credit
+B000280,2025-03-10,2773.74,Metro Fuel,SYN-000280,credit
+B000281,2025-08-15,-1799.93,Northstar Office Supplies,SYN-000281,debit
+B000282,2025-10-02,3857.13,Greenfield Utilities,SYN-000282,credit
+B000283,2025-04-29,3576.18,Greenfield Utilities,SYN-000283,credit
+B000284,2025-06-21,4020.02,Greenfield Utilities,SYN-000284,credit
+B000285,2025-11-08,-1122.59,Cedar Medical Services,SYN-000285,debit
+B000286,2025-01-20,2580.65,Brightline Telecom,SYN-000286,credit
+B000287,2025-10-20,1886.39,Westlake Transport,SYN-000287,credit
+B000288,2025-06-25,2222.41,Pine Street Cafe,SYN-000288,credit
+B000289,2025-10-15,-73.61,Pine Street Cafe,SYN-000289,debit
+B000290,2025-03-17,-3920.88,Northstar Office Supplies,SYN-000290,debit
+B000291,2025-03-23,-4174.64,Brightline Telecom,SYN-000291,debit
+B000292,2025-01-18,3382.66,Westlake Transport,SYN-000292,credit
+B000293,2025-04-09,1615.92,Northstar Office Supplies,SYN-000293,credit
+B000294,2025-07-07,-2405.15,Oak & Stone Consulting,SYN-000294,debit
+B000295,2025-12-08,1128.73,Riverbend Property Group,SYN-000295,credit
+B000296,2025-10-22,2168.56,Greenfield Utilities,SYN-000296,credit
+B000297,2025-03-27,-4198.91,Harbor Freight Services,SYN-000297,debit
+B000298,2025-07-19,-899.04,Oak & Stone Consulting,SYN-000298,debit
+B000299,2025-12-30,3176.39,Westlake Transport,SYN-000299,credit
+B000300,2025-04-06,-2307.89,Cedar Medical Services,SYN-000300,debit
+
